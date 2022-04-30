@@ -1,0 +1,26 @@
+.text_1{
+   text-align: center;
+    color:red;
+
+}
+.photo_odejdy{
+    width:180px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.akcia{
+    display: flex;
+}
+.carusel_photo{
+    width:900px;
+    height:200px
+}
+.badge{
+    background-color: #c4a400;
+}
+.navbar navbar-expand-lg{
+    background-color: cadetblue;
+}
